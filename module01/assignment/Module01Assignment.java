@@ -1,29 +1,36 @@
 import java.util.Scanner;
 
+/**
+ * This program will reverse a number entered by the user using a while loop.
+ * By Leonardo Vallejos
+ */
 public class Module01Assignment {
 
    public static void main(String[] args) {
-
-      int num, temp, remainder, reverse = 0;
+      // declare needed variables
+      int num, digit, reverse = 0;
       Scanner input = new Scanner(System.in);
 
+      // get the number to be reversed
       System.out.print("Enter a Number: ");
       num = input.nextInt();
-      
-      temp = num;
 
-      while (num > 0) {
-      
-         remainder = num % 10;
+      // repeat until all the digits from the reverse number are calculated
+      while (num != 0) {
+         // get the first digit on the right
+         digit = num % 10;
+
+         // append the digit to the reversed number
+         reverse = reverse * 10 + digit;
          
-         reverse = reverse * 10 + remainder;
-         
+         // prepare num for next digit
          num /= 10;
       
       } // /while
    
-      System.out.println("Number: " + temp);
+      // display the results
       System.out.println("Reverse: " + reverse);
+
    } // /main
 
 } // /class
