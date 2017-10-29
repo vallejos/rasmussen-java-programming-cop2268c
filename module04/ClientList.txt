@@ -1,0 +1,14 @@
+ID Number: 	100
+Name: 		Sick Nick
+Account Balance: $850.0
+
+
+ID Number: 	200
+Name: 		Burnt Ernie
+Account Balance: $635.0
+
+
+ID Number: 	3
+Name: 		Hashtag FOMO
+Account Balance: $1000.0
+

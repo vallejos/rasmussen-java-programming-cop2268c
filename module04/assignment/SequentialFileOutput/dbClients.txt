@@ -1,0 +1,10 @@
+10;leo;vallejos;7.5;
+20;ann;smith;13.75;
+30;jon;snow;19.0;
+40;arya;stark;12.5;
+50;cercei;lannister;89.99;
+60;tyrion;lannister;65.5;
+7;sansa;stark;79.0;
+8;khal;drogo;9000.99;
+9;jorah;mormont;32.25;
+100;robb;stark;8.55;
