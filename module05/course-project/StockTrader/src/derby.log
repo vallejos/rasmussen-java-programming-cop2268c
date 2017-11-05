@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 05 19:38:13 UYT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-015f-8e55-904f-000006dda398 
+on database directory /Users/vallejos/dev/rasmussen/rasmussen-java-programming-cop2268c/module05/course-project/StockTrader/src/StockTrackerDB with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/Users/vallejos/db-derby-10.14.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=/Users/vallejos/dev/rasmussen/rasmussen-java-programming-cop2268c/module05/course-project/StockTrader/src
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
